@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "837353094753",
+    "firebase_url": "https://picscall.firebaseio.com",
+    "project_id": "picscall",
+    "storage_bucket": "picscall.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837353094753:android:ba843dfd09219a5acd3420",
+        "android_client_info": {
+          "package_name": "com.example.BlogApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837353094753-mfs0bhbva0he28v1vef4l88a14aen5ki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOlYZwekWjSdRThqjPhQ8akbhP6e7eehY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "837353094753-mfs0bhbva0he28v1vef4l88a14aen5ki.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
