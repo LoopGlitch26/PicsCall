@@ -1,4 +1,4 @@
-# BlogApp
+# PicsCall
 
 A new Flutter project.
 
